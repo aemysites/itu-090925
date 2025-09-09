@@ -1,0 +1,805 @@
+{
+  "originUrl": "https://www.itu.int",
+  "aborted": false,
+  "lastCrawled": "https://www.itu.int/",
+  "urls": [
+    {
+      "url": "https://www.itu.int/160/",
+      "source": "CRAWL",
+      "targetPath": "/160",
+      "id": "db24670857e0470d57206370a487fd22a5e02209"
+    },
+    {
+      "url": "https://www.itu.int/160/celebrate-with-us/",
+      "source": "CRAWL",
+      "targetPath": "/160/celebrate-with-us",
+      "id": "1bfea3b056f9c91c48d339ba625abb1d4ac47a5e"
+    },
+    {
+      "url": "https://www.itu.int/160/celebrate-with-us/official-communication/",
+      "source": "CRAWL",
+      "targetPath": "/160/celebrate-with-us/official-communication",
+      "id": "848bee8a8f37557c573a2a4ab513f619eddd4638"
+    },
+    {
+      "url": "https://www.itu.int/160/story/",
+      "source": "CRAWL",
+      "targetPath": "/160/story",
+      "id": "f5b6cd63b505ef54ee0b93a17645ab83aa6bd2c9"
+    },
+    {
+      "url": "https://www.itu.int/160/vision/",
+      "source": "CRAWL",
+      "targetPath": "/160/vision",
+      "id": "3ba24d565b45aacd6de54c155acc38faf1d4320e"
+    },
+    {
+      "url": "https://www.itu.int/160/vision/partner-insights/partner-kingdom-of-saudi-arabia/",
+      "source": "CRAWL",
+      "targetPath": "/160/vision/partner-insights/partner-kingdom-of-saudi-arabia",
+      "id": "65e91c82cb55a739f0b7ecfd0271f79a96b751b7"
+    },
+    {
+      "url": "https://www.itu.int/ar/about/Pages/privacy-notice.aspx",
+      "source": "CRAWL",
+      "targetPath": "/ar/about/pages/privacy-notice-aspx",
+      "id": "598f8646a264cbfb4279c86b6a827e53f7933783"
+    },
+    {
+      "url": "https://www.itu.int/ar/access-policy/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/ar/access-policy/pages/default-aspx",
+      "id": "03627fe7bdda23c705300389fc8129a82fd043ae"
+    },
+    {
+      "url": "https://www.itu.int/ar/council/Pages/rto.aspx",
+      "source": "CRAWL",
+      "targetPath": "/ar/council/pages/rto-aspx",
+      "id": "a8e84cd7a52e27dc3bce4b108e70ce73a49a32d1"
+    },
+    {
+      "url": "https://www.itu.int/ar/events/Pages/conferences.aspx",
+      "source": "CRAWL",
+      "targetPath": "/ar/events/pages/conferences-aspx",
+      "id": "ddad52a60fac771125dafd586c7d45d12a6b7ceb"
+    },
+    {
+      "url": "https://www.itu.int/ar/general-secretariat/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/ar/general-secretariat/pages/default-aspx",
+      "id": "e4c8e14d7a76347542a0ad0d91ea9fa98b7f66be"
+    },
+    {
+      "url": "https://www.itu.int/ar/ITU-D/Pages/Regional-Presence.aspx",
+      "source": "CRAWL",
+      "targetPath": "/ar/itu-d/pages/regional-presence-aspx",
+      "id": "ffe0383cb538c0a422479188a3f95c0fbe896870"
+    },
+    {
+      "url": "https://www.itu.int/ar/mediacentre/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/ar/mediacentre/pages/default-aspx",
+      "id": "891735db5960f10de66b7aaa7d512b42b299de13"
+    },
+    {
+      "url": "https://www.itu.int/ar/Pages/accessibility.aspx",
+      "source": "CRAWL",
+      "targetPath": "/ar/pages/accessibility-aspx",
+      "id": "42f7518d5752931450603e74012c10b8ffc84e34"
+    },
+    {
+      "url": "https://www.itu.int/ar/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/ar/pages/default-aspx",
+      "id": "6d68e6a829a68304928bb54fb66fe858edff6d8d"
+    },
+    {
+      "url": "https://www.itu.int/en/about/Pages/contact.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/about/pages/contact-aspx",
+      "id": "bf89ae62b93ceb83e92655afce24b661af5e07f6"
+    },
+    {
+      "url": "https://www.itu.int/en/about/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/about/pages/default-aspx",
+      "id": "c9386a2d28a95b4028841581732a3a5630eeffdd"
+    },
+    {
+      "url": "https://www.itu.int/en/about/Pages/privacy-notice.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/about/pages/privacy-notice-aspx",
+      "id": "8f9b77f520b9580f06d0fed49cfe731bf45ef534"
+    },
+    {
+      "url": "https://www.itu.int/en/about/Pages/terms-of-use.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/about/pages/terms-of-use-aspx",
+      "id": "68ba4026c7c1893eb7dd8e099b5366f1c7be3e7a"
+    },
+    {
+      "url": "https://www.itu.int/en/access-policy/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/access-policy/pages/default-aspx",
+      "id": "693684222d166ed3d3e2db580e07b458214ae3d0"
+    },
+    {
+      "url": "https://www.itu.int/en/action/gender-equality/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/action/gender-equality/pages/default-aspx",
+      "id": "a03f84ec5eb85e68dd080167b3ddd43edd4b7ef5"
+    },
+    {
+      "url": "https://www.itu.int/en/action/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/action/pages/default-aspx",
+      "id": "29946ba63095f9fc06eb767ea88126e89fd8ca5e"
+    },
+    {
+      "url": "https://www.itu.int/en/council/Pages/rto.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/council/pages/rto-aspx",
+      "id": "c2faa7b6f3c9d0486420bc10a8fc84035fa5f19b"
+    },
+    {
+      "url": "https://www.itu.int/en/council/planning/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/council/planning/pages/default-aspx",
+      "id": "0225ec7dc5d7d7af81aa7e1ea9766f1163d31208"
+    },
+    {
+      "url": "https://www.itu.int/en/ethics/pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/ethics/pages/default-aspx",
+      "id": "2d611e2850fd03a17de0719e81259cbee9f3a2a1"
+    },
+    {
+      "url": "https://www.itu.int/en/ethics/Pages/helpline.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/ethics/pages/helpline-aspx",
+      "id": "5c7fd62abe881492b1b8e249409a6489d0273c1f"
+    },
+    {
+      "url": "https://www.itu.int/en/events/Pages/Calendar-Events.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/events/pages/calendar-events-aspx",
+      "id": "55d1e7f26909c4197432bed82bf1f38752067817"
+    },
+    {
+      "url": "https://www.itu.int/en/events/Pages/conferences.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/events/pages/conferences-aspx",
+      "id": "e3e00d46621d270dabc088b3caa1260b0a8d816c"
+    },
+    {
+      "url": "https://www.itu.int/en/events/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/events/pages/default-aspx",
+      "id": "8b3763d852fc99ede176c7ac6ab98993c0426515"
+    },
+    {
+      "url": "https://www.itu.int/en/general-secretariat/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/general-secretariat/pages/default-aspx",
+      "id": "b38259ba7d977dcbaca818239c9903330b19b280"
+    },
+    {
+      "url": "https://www.itu.int/en/general-secretariat/Pages/itu-translate-disclaimer.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/general-secretariat/pages/itu-translate-disclaimer-aspx",
+      "id": "6183656ab09d603beb4d9c9ea13bf27957bf177e"
+    },
+    {
+      "url": "https://www.itu.int/en/history/Pages/home.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/history/pages/home-aspx",
+      "id": "a541b6fe8d91bf6515bfb20838f8ae6296f5d035"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Environment/Pages/Publications/GDC-25.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/itu-d/environment/pages/publications/gdc-25-aspx",
+      "id": "8cbe269945f0aef57f3d336065e33599856ae09a"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/itu-d/pages/default-aspx",
+      "id": "06bba7867017bb3ce058f44539fe1e895cfc198f"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Pages/Regional-Presence.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/itu-d/pages/regional-presence-aspx",
+      "id": "f76237f5f747dc0077bb0ad2a8ddb8ab529f33ae"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-R/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/itu-r/pages/default-aspx",
+      "id": "cc1459dc529869d049641c8b8a9b8f80326f92b1"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-R/seminars/rrs/rrs-25-asia%26pacific/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/itu-r/seminars/rrs/rrs-25-asia-pacific/pages/default-aspx",
+      "id": "14904b97a3466708c8b1d94eff7ca6ec0e0fe4a8"
+    },
+    {
+      "url": "https://www.itu.int/en/itu-t/pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/itu-t/pages/default-aspx",
+      "id": "e580501b7552547c8be877774b00472f34cc6f0d"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-T/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/itu-t/pages/default-aspx",
+      "id": "1843884117a9a6eb371d48fa499c42fd460cfb0f"
+    },
+    {
+      "url": "https://www.itu.int/en/mediacentre/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/mediacentre/pages/default-aspx",
+      "id": "f74cb802dc495f1a46b9f498a6d29d34d09cce1f"
+    },
+    {
+      "url": "https://www.itu.int/en/mediacentre/Pages/PR-2025-09-01-Connecting-Humanity.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/mediacentre/pages/pr-2025-09-01-connecting-humanity-aspx",
+      "id": "7f7cc091092a2726cb1d4ab84f1f7d43fac32278"
+    },
+    {
+      "url": "https://www.itu.int/en/mediacentre/Pages/PR-2025-09-03-GSR-closing.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/mediacentre/pages/pr-2025-09-03-gsr-closing-aspx",
+      "id": "a59d9c46f59bac7027964dc658e038f34724412e"
+    },
+    {
+      "url": "https://www.itu.int/en/osg/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/osg/pages/default-aspx",
+      "id": "412596890f3ed744293914c68fb35ca6eb871440"
+    },
+    {
+      "url": "https://www.itu.int/en/oversight-unit/Pages/report-misconduct.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/oversight-unit/pages/report-misconduct-aspx",
+      "id": "4afa7a4f71c8b5d2e01fadf2cd269b515f19fda4"
+    },
+    {
+      "url": "https://www.itu.int/en/Pages/accessibility.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/pages/accessibility-aspx",
+      "id": "bb3cdd2916416ac4e24e97cb695186ccbc1bc7bd"
+    },
+    {
+      "url": "https://www.itu.int/en/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/pages/default-aspx",
+      "id": "4ae55fbce9fec3d780c3e0f0f28874e2ccf5857f"
+    },
+    {
+      "url": "https://www.itu.int/en/procurement/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/en/procurement/pages/default-aspx",
+      "id": "cd309b56b98847483bf6c46569a5b4dca901bff2"
+    },
+    {
+      "url": "https://www.itu.int/es/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/es/pages/default-aspx",
+      "id": "e1f75971a281dfc4a39595c3f3eccc94f3ed027c"
+    },
+    {
+      "url": "https://www.itu.int/fr/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/fr/pages/default-aspx",
+      "id": "763479aeb8001709869b87e62b68fec7e4f430c7"
+    },
+    {
+      "url": "https://www.itu.int/highlights-report-activities/connect2030-agenda/",
+      "source": "CRAWL",
+      "targetPath": "/highlights-report-activities/connect2030-agenda",
+      "id": "5d6d4ed88db755aebca6d199ec12a8663cff2b20"
+    },
+    {
+      "url": "https://www.itu.int/hub/2025/07/itu-journal-explores-sustainable-ai-at-the-network-edge/",
+      "source": "CRAWL",
+      "targetPath": "/hub/2025/07/itu-journal-explores-sustainable-ai-at-the-network-edge",
+      "id": "65508440098f31e78a03aa81db6c4d8a10c4a854"
+    },
+    {
+      "url": "https://www.itu.int/hub/2025/08/giga-accelerator-seeks-open-source-solutions-to-connect-schools/",
+      "source": "CRAWL",
+      "targetPath": "/hub/2025/08/giga-accelerator-seeks-open-source-solutions-to-connect-schools",
+      "id": "0898e52f5f82042301480126b56a01b3d480d5d0"
+    },
+    {
+      "url": "https://www.itu.int/hub/2025/08/updated-software-tool-helps-navigate-radio-spectrum-regulations/",
+      "source": "CRAWL",
+      "targetPath": "/hub/2025/08/updated-software-tool-helps-navigate-radio-spectrum-regulations",
+      "id": "d1b83fe4a842884d2d3c9cd8738a8a8372ee711e"
+    },
+    {
+      "url": "https://www.itu.int/hub/2025/09/new-itu-academic-collaboration-on-technology-trends/",
+      "source": "CRAWL",
+      "targetPath": "/hub/2025/09/new-itu-academic-collaboration-on-technology-trends",
+      "id": "8ab21caf124b47624d818c3ec7adf693cd2b3eff"
+    },
+    {
+      "url": "https://www.itu.int/hub/2025/09/sustainable-space-constellation-growth-requires-international-rules/",
+      "source": "CRAWL",
+      "targetPath": "/hub/2025/09/sustainable-space-constellation-growth-requires-international-rules",
+      "id": "e4c9e94ba2a5252aef9947ce778a9a0f42ebe746"
+    },
+    {
+      "url": "https://www.itu.int/hub/membership/",
+      "source": "CRAWL",
+      "targetPath": "/hub/membership",
+      "id": "22e94374c866a57cc211879693fc019f78dfd627"
+    },
+    {
+      "url": "https://www.itu.int/hub/membership/become-a-member/",
+      "source": "CRAWL",
+      "targetPath": "/hub/membership/become-a-member",
+      "id": "0a7b60ffcbb4d84fb4e31ab143458408c91ce81a"
+    },
+    {
+      "url": "https://www.itu.int/hub/news/",
+      "source": "CRAWL",
+      "targetPath": "/hub/news",
+      "id": "e4d12688d4ded1f7de0937c5e45a38bb32d76adf"
+    },
+    {
+      "url": "https://www.itu.int/hub/news/disclaimer/",
+      "source": "CRAWL",
+      "targetPath": "/hub/news/disclaimer",
+      "id": "2cb61799df7b7445430f19f7094e70370941a84f"
+    },
+    {
+      "url": "https://www.itu.int/hub/news/itu-translate/",
+      "source": "CRAWL",
+      "targetPath": "/hub/news/itu-translate",
+      "id": "d1fa7714dfddc7c517cccba262b2cfd0bae77ab8"
+    },
+    {
+      "url": "https://www.itu.int/hub/publication/r-reg-rr-2024/",
+      "source": "CRAWL",
+      "targetPath": "/hub/publication/r-reg-rr-2024",
+      "id": "bea2d5c60d3511a6edc027bd72aee58b9c746834"
+    },
+    {
+      "url": "https://www.itu.int/hub/pubs/",
+      "source": "CRAWL",
+      "targetPath": "/hub/pubs",
+      "id": "ee1aae184336ca6fb264e0aa1fedc8b0cee0acf6"
+    },
+    {
+      "url": "https://www.itu.int/itu-d/meetings/gsr-25/",
+      "source": "CRAWL",
+      "targetPath": "/itu-d/meetings/gsr-25",
+      "id": "048d60652f9881a9d3a666221fdf21e241ebf302"
+    },
+    {
+      "url": "https://www.itu.int/itu-d/meetings/wtdc25/",
+      "source": "CRAWL",
+      "targetPath": "/itu-d/meetings/wtdc25",
+      "id": "14fe00bb91fb7f1ff911524243cb24a906ae705c"
+    },
+    {
+      "url": "https://www.itu.int/itu-d/meetings/wtis25/",
+      "source": "CRAWL",
+      "targetPath": "/itu-d/meetings/wtis25",
+      "id": "db72a098d0a432a6162a23e67ca514ea23405e96"
+    },
+    {
+      "url": "https://www.itu.int/net4/wsis/forum/2025/",
+      "source": "CRAWL",
+      "targetPath": "/net4/wsis/forum/2025",
+      "id": "ae59e3a55b27296f3e5337c448a22676654deb44"
+    },
+    {
+      "url": "https://www.itu.int/pub/S-CONF-PLEN",
+      "source": "CRAWL",
+      "targetPath": "/pub/s-conf-plen",
+      "id": "c7db4be742a186a69f2dd9aaacb3cac47cfdef74"
+    },
+    {
+      "url": "https://www.itu.int/ru/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/ru/pages/default-aspx",
+      "id": "740c4e247edb24f574b4fe3285c2c33c90c496b4"
+    },
+    {
+      "url": "https://www.itu.int/ssf/",
+      "source": "CRAWL",
+      "targetPath": "/ssf",
+      "id": "22873ae268f1d5b1193d3a15f794e29dafa6d37b"
+    },
+    {
+      "url": "https://www.itu.int/wtisd/",
+      "source": "CRAWL",
+      "targetPath": "/wtisd",
+      "id": "7d5059db5a086e9a84386e7b058e1f6a709dbbe5"
+    },
+    {
+      "url": "https://www.itu.int/wtisd/itu160-lightshow/",
+      "source": "CRAWL",
+      "targetPath": "/wtisd/itu160-lightshow",
+      "id": "30ec96bb3cca01378592b0740a6c930f580abbdd"
+    },
+    {
+      "url": "https://www.itu.int/zh/access-policy/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/zh/access-policy/pages/default-aspx",
+      "id": "43fc64b3872acdae0ba97b655550359256817604"
+    },
+    {
+      "url": "https://www.itu.int/zh/council/Pages/rto.aspx",
+      "source": "CRAWL",
+      "targetPath": "/zh/council/pages/rto-aspx",
+      "id": "d31a77bbb7c938a51e25dbc2a4921855621631d5"
+    },
+    {
+      "url": "https://www.itu.int/zh/events/Pages/conferences.aspx",
+      "source": "CRAWL",
+      "targetPath": "/zh/events/pages/conferences-aspx",
+      "id": "81deb5eacbc36fd57648062f776f53515becd6fa"
+    },
+    {
+      "url": "https://www.itu.int/zh/general-secretariat/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/zh/general-secretariat/pages/default-aspx",
+      "id": "7d9c933f51139dd2517d2c7c2aaf94a35a18bc52"
+    },
+    {
+      "url": "https://www.itu.int/zh/ITU-D/Pages/Regional-Presence.aspx",
+      "source": "CRAWL",
+      "targetPath": "/zh/itu-d/pages/regional-presence-aspx",
+      "id": "a9e14736e345000293478037bdb7c6c1a221d589"
+    },
+    {
+      "url": "https://www.itu.int/zh/mediacentre/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/zh/mediacentre/pages/default-aspx",
+      "id": "932515a685e25dc177ab2b8acc0e010f7c387698"
+    },
+    {
+      "url": "https://www.itu.int/zh/Pages/default.aspx",
+      "source": "CRAWL",
+      "targetPath": "/zh/pages/default-aspx",
+      "id": "01b5f75fc4f9ae8480bba476beb2b8028e746cee"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.itu.int/twitter",
+      "status": "301 Moved Permanently Redirect: http://twitter.com/itu"
+    },
+    {
+      "url": "https://www.itu.int/160-anniversary",
+      "status": "301 Moved Permanently Redirect: http://www.itu.int/160-anniversary/"
+    },
+    {
+      "url": "https://www.itu.int/160-anniversary",
+      "status": "301 Moved Permanently Redirect: http://www.itu.int/160-anniversary/"
+    },
+    {
+      "url": "https://www.itu.int/160-anniversary",
+      "status": "301 Moved Permanently Redirect: http://www.itu.int/160-anniversary/"
+    },
+    {
+      "url": "https://www.itu.int/reports/council",
+      "status": "301 Moved Permanently Redirect: http://www.itu.int/reports/council/"
+    },
+    {
+      "url": "https://www.itu.int/reports/council",
+      "status": "301 Moved Permanently Redirect: http://www.itu.int/reports/council/"
+    },
+    {
+      "url": "https://www.itu.int/youtube",
+      "status": "301 Moved Permanently Redirect: http://www.youtube.com/itutelecommunication"
+    },
+    {
+      "url": "https://www.itu.int/en/careers/Pages/NewRecruitmentManagementSystem.aspx",
+      "status": "301 Moved Permanently Redirect: https://jobs.itu.int"
+    },
+    {
+      "url": "https://www.itu.int/spotify",
+      "status": "301 Moved Permanently Redirect: https://open.spotify.com/show/2bdlpMRJwDfwR3v38PwvoY"
+    },
+    {
+      "url": "https://www.itu.int/gplus",
+      "status": "301 Moved Permanently Redirect: https://plus.google.com/116244040189128122622/"
+    },
+    {
+      "url": "https://www.itu.int/applepodcasts",
+      "status": "301 Moved Permanently Redirect: https://podcasts.apple.com/ch/podcast/international-telecommunication-union-itu/id1491001474"
+    },
+    {
+      "url": "https://www.itu.int/pp22/",
+      "status": "301 Moved Permanently Redirect: https://pp22.itu.int/"
+    },
+    {
+      "url": "https://www.itu.int/soundcloud",
+      "status": "301 Moved Permanently Redirect: https://soundcloud.com/ituproduction/"
+    },
+    {
+      "url": "https://www.itu.int/facebook",
+      "status": "301 Moved Permanently Redirect: https://www.facebook.com/pages/ITU/103018419782973"
+    },
+    {
+      "url": "https://www.itu.int/flickr",
+      "status": "301 Moved Permanently Redirect: https://www.flickr.com/photos/itupictures/albums"
+    },
+    {
+      "url": "https://www.itu.int/instagram",
+      "status": "301 Moved Permanently Redirect: https://www.instagram.com/ituofficial/"
+    },
+    {
+      "url": "https://www.itu.int/160/160th-anniversary/celebrate-with-us/",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/160/celebrate-with-us/"
+    },
+    {
+      "url": "https://www.itu.int/160/160th-anniversary/story/",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/160/story/"
+    },
+    {
+      "url": "https://www.itu.int/160/160th-anniversary/vision/",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/160/vision/"
+    },
+    {
+      "url": "https://www.itu.int/home/contact/index.html",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/en/about/Pages/contact.aspx"
+    },
+    {
+      "url": "https://www.itu.int/ar/ITU-T/Pages/default.aspx",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/en/itu-t/pages/default.aspx#/ar"
+    },
+    {
+      "url": "https://www.itu.int/zh/ITU-T/Pages/default.aspx",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/en/itu-t/pages/default.aspx#/zh"
+    },
+    {
+      "url": "https://www.itu.int/highlights-report-activities/connect2030-agenda",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/highlights-report-activities/connect2030-agenda/"
+    },
+    {
+      "url": "https://www.itu.int/highlights-report-activities/connect2030-agenda",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/highlights-report-activities/connect2030-agenda/"
+    },
+    {
+      "url": "https://www.itu.int/highlights-report-activities/connect2030-agenda",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/highlights-report-activities/connect2030-agenda/"
+    },
+    {
+      "url": "https://www.itu.int/hub/news/disclaimer",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/hub/news/disclaimer/"
+    },
+    {
+      "url": "https://www.itu.int/hub/news/itu-translate",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/hub/news/itu-translate/"
+    },
+    {
+      "url": "https://www.itu.int/itu-d/meetings/wtdc25",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/itu-d/meetings/wtdc25/"
+    },
+    {
+      "url": "https://www.itu.int/itu-d/meetings/wtdc25",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/itu-d/meetings/wtdc25/"
+    },
+    {
+      "url": "https://www.itu.int/itu-d/meetings/wtdc25",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/itu-d/meetings/wtdc25/"
+    },
+    {
+      "url": "https://www.itu.int/pp22",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/pp22/"
+    },
+    {
+      "url": "https://www.itu.int/pp22",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/pp22/"
+    },
+    {
+      "url": "https://www.itu.int/pp22",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/pp22/"
+    },
+    {
+      "url": "https://www.itu.int/ssf",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/ssf/"
+    },
+    {
+      "url": "https://www.itu.int/ssf",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/ssf/"
+    },
+    {
+      "url": "https://www.itu.int/wtisd",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/wtisd/"
+    },
+    {
+      "url": "https://www.itu.int/wtisd",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/wtisd/"
+    },
+    {
+      "url": "https://www.itu.int/wtisd",
+      "status": "301 Moved Permanently Redirect: https://www.itu.int/wtisd/"
+    },
+    {
+      "url": "https://www.itu.int/linkedin",
+      "status": "301 Moved Permanently Redirect: https://www.linkedin.com/company/international-telecommunication-union"
+    },
+    {
+      "url": "https://www.itu.int/spreaker",
+      "status": "301 Moved Permanently Redirect: https://www.spreaker.com/user/14369654"
+    },
+    {
+      "url": "https://www.itu.int/tiktok",
+      "status": "301 Moved Permanently Redirect: https://www.tiktok.com/@itu"
+    },
+    {
+      "url": "https://www.itu.int/en/general-secretariat/Pages/ITU-translate-about.aspx",
+      "status": "302 Found Redirect: https://www.itu.int:443/en/general-secretariat/Pages/itu-translate-disclaimer.aspx"
+    },
+    {
+      "url": "https://www.itu.int/en/hq-building/Pages/default.aspx",
+      "status": "302 Found Redirect: https://www.itu.int:443/hqbuilding/en/"
+    },
+    {
+      "url": "https://www.itu.int/en/hq-building/Pages/default.aspx",
+      "status": "302 Found Redirect: https://www.itu.int:443/hqbuilding/en/"
+    },
+    {
+      "url": "https://www.itu.int/en/hq-building/Pages/default.aspx",
+      "status": "302 Found Redirect: https://www.itu.int:443/hqbuilding/en/"
+    },
+    {
+      "url": "https://www.itu.int/Pages/VariationRoot.aspx",
+      "status": "302 Found Redirect: https://www.itu.int/en"
+    },
+    {
+      "url": "https://www.itu.int/ar/about",
+      "status": "302 Redirect Redirect: https://www.itu.int/ar/about/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/ar/action",
+      "status": "302 Redirect Redirect: https://www.itu.int/ar/action/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/ar/ITU-D",
+      "status": "302 Redirect Redirect: https://www.itu.int/ar/ITU-D/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/ar/ITU-R",
+      "status": "302 Redirect Redirect: https://www.itu.int/ar/ITU-R/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/ar/",
+      "status": "302 Redirect Redirect: https://www.itu.int/ar/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/en/about",
+      "status": "302 Redirect Redirect: https://www.itu.int/en/about/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/en/action",
+      "status": "302 Redirect Redirect: https://www.itu.int/en/action/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/en/careers",
+      "status": "302 Redirect Redirect: https://www.itu.int/en/careers/Pages/NewRecruitmentManagementSystem.aspx"
+    },
+    {
+      "url": "https://www.itu.int/en/events",
+      "status": "302 Redirect Redirect: https://www.itu.int/en/events/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D",
+      "status": "302 Redirect Redirect: https://www.itu.int/en/ITU-D/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-D/Statistics",
+      "status": "302 Redirect Redirect: https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/en/ITU-R",
+      "status": "302 Redirect Redirect: https://www.itu.int/en/ITU-R/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int//www.itu.int",
+      "status": "302 Redirect Redirect: https://www.itu.int/en/pages/404.aspx"
+    },
+    {
+      "url": "https://www.itu.int/en",
+      "status": "302 Redirect Redirect: https://www.itu.int/en/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/en/",
+      "status": "302 Redirect Redirect: https://www.itu.int/en/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/",
+      "status": "302 Redirect Redirect: https://www.itu.int/Pages/VariationRoot.aspx"
+    },
+    {
+      "url": "https://www.itu.int/",
+      "status": "302 Redirect Redirect: https://www.itu.int/Pages/VariationRoot.aspx"
+    },
+    {
+      "url": "https://www.itu.int/zh/about",
+      "status": "302 Redirect Redirect: https://www.itu.int/zh/about/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/zh/action",
+      "status": "302 Redirect Redirect: https://www.itu.int/zh/action/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/zh/ITU-D",
+      "status": "302 Redirect Redirect: https://www.itu.int/zh/ITU-D/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/zh/ITU-R",
+      "status": "302 Redirect Redirect: https://www.itu.int/zh/ITU-R/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/zh/",
+      "status": "302 Redirect Redirect: https://www.itu.int/zh/Pages/default.aspx"
+    },
+    {
+      "url": "https://www.itu.int/hqbuilding/en/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.itu.int/en/Pages/social-media.aspx",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.itu.int/en/pages/404.aspx",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.itu.int/en/_vti_bin/spsdisco.aspx",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.itu.int/160/wp-json/",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.itu.int/160/wp-json/wp/v2/pages/34",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.itu.int/160/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.itu.int%2F160%2F",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.itu.int/160/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.itu.int%2F160%2F&",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.itu.int/ar/_vti_bin/spsdisco.aspx",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.itu.int/zh/_vti_bin/spsdisco.aspx",
+      "status": "content type is not text/html"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":41,\"E_302\":27,\"E_404\":3,\"others\":7}",
+  "error": null
+}
